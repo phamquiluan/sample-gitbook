@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Chap 1](README.md)
-* [Chap 2](chap-2.md)
+* [Giới thiệu](README.md)
+* [Chương 1](chuong-1.md)
+* [Chương 2](chuong-2.md)
