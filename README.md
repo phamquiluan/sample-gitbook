@@ -1,6 +1,3 @@
----
-description: The content of Chap 1.
----
 
-# Chap 1
 
+https://aimlessly.gitbook.io/the-name-is-hidden
