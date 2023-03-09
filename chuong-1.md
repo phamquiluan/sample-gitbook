@@ -1,6 +1,8 @@
 ---
-description: The content of chap 2
+description: Chúng ta sẽ kỷ luật trên nguyên tắc của chính mình
 ---
 
-# Chap 2
+# Chương 1 - Nguyên tắc cơ bản
+
+
 
