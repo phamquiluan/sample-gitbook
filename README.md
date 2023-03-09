@@ -1,5 +1,5 @@
 ---
-description: Mọi thứ rồi sẽ kết thúc
+description: Tập kí sự của chàng trai Việt Nam đang sống và học tập ở Úc
 ---
 
 # Giới thiệu
